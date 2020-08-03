@@ -1,4 +1,4 @@
-In january 2020 i started this project, i'm 14 years old and from The Netherlands.
+In january 2020 i started this project, i'm 14 years old and from The Netherlands. This is my first game i made, i used the unity engine.
 I stopped with this project in july of 2020, beceause making the levels didn't include coding and al the coding was already done
 
 This file contains:
